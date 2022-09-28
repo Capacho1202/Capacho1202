@@ -1,5 +1,13 @@
 ### Hi there 👋
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [ Node, Storybook, Styled-Components],
+  architecture: ["microservices","design system pattern" ,"solid principles"],
 
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 <!--
 **Capacho1202/Capacho1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
